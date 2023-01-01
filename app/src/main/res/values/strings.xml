@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">rechack2</string>
+    <string name="direct_dl">sur l\'appareil</string>
+    <string name="rpi_dl">sur le serveur</string>
+    <string name="settings">Paramètres</string>
+    <string name="user_agent">user-agent</string>
+    <string name="no_input">pas d\'entrée</string>
+    <string name="op1">récupération du token depuis le lien : %1$s\n…</string>
+    <string name="op2">* id : %1$s\n* token : %2$s\n\nrécupération du lien depuis : %3$s\n…
+    </string>
+    <string name="obtained">* résultat : %1$s</string>
+    <string name="airplane_on">activation du mode avoin\n…</string>
+    <string name="airplane_off">désactivation du mode avoin\n…</string>
+    <string name="wifi_on">activation du wifi\n…</string>
+    <string name="wifi_off">désactivation du wifi\n…</string>
+    <string name="run_ssh">exécution de la commande ssh : %1$s\n…</string>
+    <string name="ua_is">user-agent : %1$s</string>
+</resources>
